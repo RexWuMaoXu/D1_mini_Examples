@@ -3,10 +3,10 @@
   The ESP8266EX(Which IC D1 board used)  integrates a generic purpose 10-bit analog ADC. The ADC range is from 0V to 1.0V
   And on the  board, we use following circuit:
 
-  -----A0
+  -----ADC
   |
  220K
-  |--- ADC
+  |--- A0
  100K
   |
  GND
